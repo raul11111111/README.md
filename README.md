@@ -2,7 +2,7 @@
 
 ## **¿Qué son?**
 
-Los gatos son mamiferos, cuadrupedos y carnivorbos (por lo general) los cuales se utilizan mascotas al igual que los perros. Estos animales poseen caracteristicas para poder identificarlos ya sean como la cola alargada, el pelaje donde puede ser:  
+Los gatos o **Felis silvestris catus** son mamiferos, cuadrupedos y carnivorbos (por lo general) los cuales se utilizan mascotas al igual que los perros. Estos animales poseen caracteristicas para poder identificarlos ya sean como la cola alargada, el pelaje donde puede ser:  
 -Blanco-  
 -Negro-  
 -Cafe-  

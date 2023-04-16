@@ -13,7 +13,7 @@ Aunque estos colores pueden aparecer convinados en un solo individuo, formando p
 
 
 
-<img src"https://upload.wikimedia.org/wikipedia/commons/5/50/Sushi_10_meses_wikipedia.JPG"width="250">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Sushi_10_meses_wikipedia.JPG" width="250">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/449px-Cat_November_2010-1a.jpg" width="250">
 

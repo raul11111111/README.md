@@ -7,7 +7,7 @@ Los gatos o **Felis silvestris catus** son mamiferos, cuadrupedos y carnivorbos 
 -Negro-  
 -Cafe-  
 -Naranja-  
-Aunque estos colores pueden aparecer convinados en un solo individuo, formando padrones bastantes llamativos o utilizados en forma de camuflaje
+Aunque estos colores pueden aparecer convinados en un solo individuo, formando padrones bastantes llamativos o utilizados en forma de camuflaje. Atravez de la historia los gatos ha sido parte de muchas culturas una de las más conocidads y llamativas vendría a ser la egipsia, en la cual se muestran esculturas y pinturas de estos animales siendo importante para ellos de forma espiritual, en China los gatos fueron apreciados por su caracteristica depredadora de criaturas pequeñas como alimañas (atas)
 
 
 

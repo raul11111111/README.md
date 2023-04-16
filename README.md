@@ -12,7 +12,7 @@ Los gatos son digitígrados: caminan sobre sus dedos. Las patas delanteras tiene
 
 Tienen garras retráctiles. Las garras están cubiertas por la piel que rodea las almohadillas de los dedos.
 
-Está extendido el mito de que los gatos siempre aterrizan sobre sus patas si sufren una caída. Se denomina reflejo de enderezamiento a esta capacidad,22​ pero no siempre un gato consigue recobrar la posición ideal antes de alcanzar el suelo. Las caídas desde lugares elevados suponen riesgo de heridas, que pueden ser graves.
+Está extendido el mito de que los gatos siempre aterrizan sobre sus patas si sufren una caída. Se denomina reflejo de enderezamiento a esta capacidad,22 pero no siempre un gato consigue recobrar la posición ideal antes de alcanzar el suelo. Las caídas desde lugares elevados suponen riesgo de heridas, que pueden ser graves.
   
     
 
@@ -44,3 +44,11 @@ Está extendido el mito de que los gatos siempre aterrizan sobre sus patas si su
 - Procesamiento de datos geográficos
 - Geográfia Cultural
 - Hidroclimatología
+
+
+
+*gato*
+_gato_
+*_gato_*
+**gato**
+__gato__

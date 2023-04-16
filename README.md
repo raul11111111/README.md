@@ -48,7 +48,13 @@ Está extendido el mito de que los gatos siempre aterrizan sobre sus patas si su
 
 
 *gato*
+
+
 _gato_
+
+
 *_gato_*
+
+
 **gato**
 __gato__

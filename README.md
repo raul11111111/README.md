@@ -21,7 +21,7 @@ Aunque estos colores pueden aparecer convinados en un solo individuo, formando p
 
 
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/As08-16-2593.jpg/678px-As08-16-2593.jpg?20120418171958" width="300">
+
 
 #### *__Algunas razas de gatos:__*   
 -Persa-   
@@ -29,14 +29,15 @@ Aunque estos colores pueden aparecer convinados en un solo individuo, formando p
 -Bengala-   
 -Siamés-   
 
-##### Correo: Raul@gmail.com
 
 
 
-##### *__Áreas de interés:__*
-- Programación
-- Cartográfia
-- Representación grafica
+
+#### *__Algunas caracteristicas fisicas:__*
+1. Bigotes
+2. Uñas curvadas y retractiles
+3. Colmillos afilados   
+4. Estatura promedio de 45 cm
 
 
 ##### *__Carrera:__*  

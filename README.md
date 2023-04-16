@@ -17,6 +17,7 @@ Aunque estos colores pueden aparecer convinados en un solo individuo, formando p
 
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/2_week-old_Female_Sphynx_%28Suki%29.jpg" width="300"
 
 
  

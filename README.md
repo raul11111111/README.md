@@ -25,10 +25,14 @@ Por otra parte con un pensamiento más occidental los gatos, siendo más especif
 
 
 #### *__Algunas razas de gatos:__*   
--Persa-   
--Esfinge-   
--Bengala-   
+-Persa-     
+
+-Esfinge-    
+
+-Bengala-    
+
 -Siamés-   
+
 
 
 

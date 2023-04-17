@@ -11,7 +11,10 @@ Hablando en el hambito de las mascotas, los gatos en la epoca moderna son bastan
 Desde ya hace unas decadas estas criaturas han protagonizado una cantidad considerablemente grande de peliculas, escenas de teatro, series de televisión como programas infantiles, cuentos infantiles o series de animación al igual de desefundar a la vez juegos o creaciones del medio artistico como pinturas modernas y antiguas, no cabe duda de que los gatos han inguido en la humanidad y son parte de nuestra propia historia.
 
 
-![](WhatsApp Image 2023-04-17 at 09.35.35.jpeg)
+![](WhatsApp Image 2023-04-17 at 09.35.35.jpeg)          
+
+
+[Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Sushi_10_meses_wikipedia.JPG" width="240"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/449px-Cat_November_2010-1a.jpg" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/2_week-old_Female_Sphynx_%28Suki%29.jpg" width="300">

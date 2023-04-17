@@ -53,7 +53,7 @@ Desde ya hace unas decadas estas criaturas han protagonizado una cantidad consid
 - Hidroclimatología
 
 
-![gato.jpg](gato.jpg)
+[gato](gato)
 
 
 

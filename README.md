@@ -14,7 +14,7 @@ Desde ya hace unas decadas estas criaturas han protagonizado una cantidad consid
          
 
 
-[Galileo Galilei](https://es.wikipedia.org/wiki/Galileo_Galilei)
+
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Sushi_10_meses_wikipedia.JPG" width="240"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/449px-Cat_November_2010-1a.jpg" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/2_week-old_Female_Sphynx_%28Suki%29.jpg" width="300">
@@ -53,7 +53,7 @@ Desde ya hace unas decadas estas criaturas han protagonizado una cantidad consid
 - Hidroclimatología
 
 
-![](WhatsApp Image 2023-04-17 at 09.35.35.jpeg)
+![WhatsApp Image 2023-04-17 at 09.35.35.jpeg](WhatsApp Image 2023-04-17 at 09.35.35.jpeg)
 
 
 

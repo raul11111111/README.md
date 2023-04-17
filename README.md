@@ -53,7 +53,7 @@ Desde ya hace unas decadas estas criaturas han protagonizado una cantidad consid
 - Hidroclimatología
 
 
-![WhatsApp Image 2023-04-17 at 09.35.35.jpeg](WhatsApp Image 2023-04-17 at 09.35.35.jpeg)
+![gato](gato)
 
 
 

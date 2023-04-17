@@ -53,8 +53,8 @@ Desde ya hace unas decadas estas criaturas han protagonizado una cantidad consid
 - Hidroclimatología
 
 
-[gato.jpg](gato.jpg)
-
+![Imagen local](gato.jpg)
+![Imagen local](img/Jupiter_and_the_Galilean_Satellites.jpg)
 
 
 k

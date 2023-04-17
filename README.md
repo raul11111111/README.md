@@ -24,10 +24,7 @@ Desde ya hace unas decadas estas criaturas han protagonizado una cantidad consid
 
 
 
- 
-
-
-#### *__Algunas razas de gatos:__*   
+ #### *__Algunas razas de gatos:__*   
 - Persa    
 
 - Esfinge    
